@@ -1,0 +1,1 @@
+{"version":3,"file":"NewMemberForm.style.js","sourceRoot":"","sources":["NewMemberForm.style.ts"],"names":[],"mappings":";;;;AAAA,OAAO,MAAM,MAAM,mBAAmB,CAAA;AAEtC,MAAM,CAAC,IAAM,mBAAmB,GAAG,MAAM,CAAC,IAAI,+FAAA,4BAE7C,IAAA,CAAC","sourcesContent":["import styled from 'styled-components'\r\n\r\nexport const StyledNewMemberForm = styled.form`\r\n  white-space: nowrap;\r\n`;\r\n"]}

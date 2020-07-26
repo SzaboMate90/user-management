@@ -1,0 +1,3 @@
+import Colors from './Colors';
+export default (function () { return "\n  @media screen and (min-width: 650px) {\n    &::-webkit-scrollbar {\n      width: 10px;\n    }\n    &::-webkit-scrollbar-track {\n      background: " + Colors.grey450 + ";\n      border-radius: 4px;\n    }\n    &::-webkit-scrollbar-thumb {\n      background: " + Colors.grey600 + ";\n      border-radius: 4px;\n    }\n    &::-webkit-scrollbar-thumb:hover {\n      background: " + Colors.grey500 + ";\n    }\n  }\n"; });
+//# sourceMappingURL=Scrollbar.js.map

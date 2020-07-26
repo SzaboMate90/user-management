@@ -1,0 +1,1 @@
+{"version":3,"file":"apiEndpoints.js","sourceRoot":"","sources":["apiEndpoints.ts"],"names":[],"mappings":"AACA,eAAe;IACb,SAAS,EAAG,SAAS;IACrB,YAAY,EAAG,gBAAgB;CAChC,CAAC","sourcesContent":["\nexport default {\n  getMember : \"/member\",\n  createMember : \"/create-member\"\n};"]}

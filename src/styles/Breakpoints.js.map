@@ -1,0 +1,1 @@
+{"version":3,"file":"Breakpoints.js","sourceRoot":"","sources":["Breakpoints.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,IAAM,MAAM,GAAG,UAAA,OAAO,IAAI,OAAA,qDAE3B,OAAO,YAEZ,EAJgC,CAIhC,CAAC;AAEF,eAAe;IACb,MAAM,QAAA;CACP,CAAC","sourcesContent":["export const global = content => `\n  @media screen and (max-width: 700px) {\n    ${content}\n  }\n`;\n\nexport default {\n  global\n};"]}

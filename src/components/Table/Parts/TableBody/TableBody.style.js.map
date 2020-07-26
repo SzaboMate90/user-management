@@ -1,0 +1,1 @@
+{"version":3,"file":"TableBody.style.js","sourceRoot":"","sources":["TableBody.style.ts"],"names":[],"mappings":";;;;AAAA,OAAO,MAAM,MAAM,mBAAmB,CAAA;AAEtC,MAAM,CAAC,IAAM,eAAe,GAAG,MAAM,CAAC,KAAK,2EAAA,QAE1C,IAAA,CAAC","sourcesContent":["import styled from 'styled-components'\r\n\r\nexport const StyledTableBody = styled.tbody`\r\n  \r\n`;\r\n"]}

@@ -1,0 +1,10 @@
+[{
+  "name" : "customer",
+  "allowedAccessLevels" : ["read", "write"]
+}, {
+  "name" : "employee",
+  "allowedAccessLevels" : ["write", "admin"]
+}, {
+  "name" : "manager",
+  "allowedAccessLevels" : ["admin"]
+}]
